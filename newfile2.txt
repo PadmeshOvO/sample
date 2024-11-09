@@ -1,4 +1,4 @@
 this is file two for git course
 adding new line to file two
-
 add another marketing message
+added a footer note
