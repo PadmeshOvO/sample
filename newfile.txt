@@ -1,3 +1,4 @@
 this is the first file for the git course
 adding content to file one
 bugs fixed in fixes.txt
+we making shit happen
